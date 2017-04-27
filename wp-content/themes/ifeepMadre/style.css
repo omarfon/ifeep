@@ -1,0 +1,90 @@
+/*
+Theme Name: ifeepMadre
+Theme URI: http://www.ifeep.edu.pe
+Version: 1.0.0
+Description: Tema personalizado para la web de Ifeep Madre
+Author: Omar Fonseca
+Author URI: http://omarfonseca.xyz
+Tags: responsive-layout, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, featured-images, full-width-template, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready
+License: GNU General Public License v1
+
+*/
+
+.site-header{
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  height: 500px;
+
+}
+
+h1,h2,h3,h4,h5,h6,p{
+  font-family: 'Raleway', sans-serif;
+}
+
+/*estilos del footer*/
+
+footer{
+  margin-top: 2em;
+  background-color: #425367;
+  width: 100%;
+  height: auto;
+  padding-bottom: 2em;
+}
+footer li{
+  list-style-type: none;
+  color:#fff;
+  font-family: 'Raleway';
+  font-size: 1em;
+}
+footer ul{
+  padding-left: 0;
+  margin-top: 1.5em;
+}
+.containerFooter{
+  padding-top: 2em;
+}
+
+@media(min-width:480px){
+  .containerFooter{
+    display: flex;
+    justify-content: space-between;
+  }
+  .datos{
+  text-align: right;
+  }
+  .subtitulo{
+  text-align: right;
+  padding-top: 0!important;
+  }
+  .redes{
+  margin-left: 50%;
+  }
+}
+
+.redes{
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+ .subtitulo{
+  color:#3FC6F5;
+  font-family: 'Raleway';
+  font-size: 1.3em;
+  font-weight: 300;
+  padding-top: 2em;
+  text-align: center;
+}
+.redes a{
+  color:#fff;
+}
+.redes a:hover{
+  color:#3fc6f5;
+}
+
+.bold{
+  font-weight: bolder;
+  font-size: 1.3em;
+  margin-top: 1em;
+}
+/*fin de los estilos en el footer*/

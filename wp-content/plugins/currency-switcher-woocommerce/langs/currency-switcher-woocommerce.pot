@@ -1,0 +1,1328 @@
+# Copyright (C) 2016 Currency Switcher for WooCommerce
+# This file is distributed under the same license as the Currency Switcher for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Switcher for WooCommerce 2.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/currency-switcher-"
+"woocommerce\n"
+"POT-Creation-Date: 2016-12-31 15:10:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: currency-switcher-woocommerce.php:114
+msgid "Settings"
+msgstr ""
+
+#: currency-switcher-woocommerce.php:115
+msgid "Unlock all"
+msgstr ""
+
+#: includes/admin/class-alg-currency-reports.php:47
+msgid "Reports currency:"
+msgstr ""
+
+#: includes/admin/class-alg-currency-reports.php:49
+#: includes/admin/class-alg-currency-reports.php:67
+msgid "Show reports only in"
+msgstr ""
+
+#: includes/admin/class-alg-wc-currency-switcher-per-product.php:57
+msgid "Regular Price"
+msgstr ""
+
+#: includes/admin/class-alg-wc-currency-switcher-per-product.php:66
+msgid "Sale Price"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:24
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:113
+msgid "Currencies"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:42
+msgid "Save changes"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:115
+msgid ""
+"Select <strong>additional</strong> currencies here. Your shop's default "
+"currency [%s] will be added automatically."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:121
+msgid "Auto Generate PayPal Supported Currencies"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:127
+msgid "Currency (Shop's Default)"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:137
+msgid "Total Additional Currencies"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:138
+msgid "Save changes after you update this number."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:144
+msgid "To add more than two additional currencies, you will need %s plugin."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:146
+msgid "Currency Switcher for WooCommerce Pro"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:156
+msgid "Additional Currency"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:157
+msgid "Enabled"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currency-countries.php:24
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currency-countries.php:77
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currency-countries.php:95
+msgid "Currency Countries (by IP)"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currency-countries.php:70
+msgid ""
+"Important: \"Default Customer Location\" is not set to \"Geolocate\" or "
+"\"Geolocate (with page caching support)\" in <a href=\"%s\">WooCommerce > "
+"Settings > General</a>."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currency-countries.php:79
+msgid ""
+"All not selected countries, will be assigned your shop's default currency."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currency-countries.php:85
+msgid "Auto Assign Countries"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currency-countries.php:90
+msgid "Reset Countries"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currency-countries.php:97
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:45
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:53
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:61
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:24
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:144
+msgid "Exchange Rates"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:136
+msgid "%s till next update."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:138
+msgid "%s seconds till next update."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:152
+msgid "Update All Exchange Rates Now"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:157
+msgid "Reset All Rates"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:162
+msgid "Exchange Rates Updates"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:167
+msgid "Enter Rates Manually"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:168
+msgid "Update Automatically Every Minute"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:169
+msgid "Update Automatically Hourly"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:170
+msgid "Update Automatically Twice Daily"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:171
+msgid "Update Automatically Daily"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:172
+msgid "Update Automatically Weekly"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:188
+msgid "Grab %s rate from Yahoo.com"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:24
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:39
+msgid "Currency Switcher Plugin Options"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:44
+msgid "WooCommerce Currency Switcher Plugin"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Currency Switcher for WooCommerce 2.1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:46
+msgid "Currency Switcher for WooCommerce"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:52
+msgid "Currency Switcher on per Product Basis"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:54
+msgid "This will add meta boxes in product edit."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:60
+msgid "Revert Currency to Default on Checkout"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:67
+msgid "Switcher Placement"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:68
+msgid ""
+"Also you can use switcher widget, shortcodes "
+"[woocommerce_currency_switcher_drop_down_box], "
+"[woocommerce_currency_switcher_radio_list], "
+"[woocommerce_currency_switcher_link_list] or functions."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:74
+msgid "Product Single Page - After Price - Radio"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:75
+msgid "Product Single Page - After Price - Drop Down"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:76
+msgid "Product Single Page - After Price - Links"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:80
+msgid "Rounding"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:81
+msgid "If using exchange rates, choose rounding here."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:86
+msgid "No rounding"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:87
+msgid "Round"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:88
+msgid "Round up"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:89
+msgid "Round down"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:93
+msgid "Precision"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:94
+msgid "If rounding enabled, set precision here."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:101
+msgid "Advanced: Disable on URI"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:102
+msgid ""
+"List URIs where you want switcher functionality to be disabled. One per "
+"line. Leave blank if not sure."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-currency-switcher.php:24
+msgid "Currency Switcher"
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-currency-switcher.php:45
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:26
+msgid "Update Every Minute"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:27
+msgid "Update Hourly"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:28
+msgid "Update Twice Daily"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:29
+msgid "Update Daily"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:30
+msgid "Update Weekly"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:83
+msgid "Once Weekly"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:87
+msgid "Once a Minute"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:27
+msgid "WooCommerce Currency Switcher Widget"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:31
+msgid "WooCommerce Currency Switcher"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:62
+msgid "Currency Switcher not enabled!"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:79
+msgid "Title:"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:83
+msgid "Type:"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:85
+msgid "Drop down"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:86
+msgid "Radio list"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:87
+msgid "Link list"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:195
+msgid "Afghanistan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:196
+msgid "&#197;land Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:197
+msgid "Albania"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:198
+msgid "Algeria"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:199
+msgid "Andorra"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:200
+msgid "Angola"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:201
+msgid "Anguilla"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:202
+msgid "Antarctica"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:203
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:204
+msgid "Argentina"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:205
+msgid "Armenia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:206
+msgid "Aruba"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:207
+msgid "Australia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:208
+msgid "Austria"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:209
+msgid "Azerbaijan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:210
+msgid "Bahamas"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:211
+msgid "Bahrain"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:212
+msgid "Bangladesh"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:213
+msgid "Barbados"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:214
+msgid "Belarus"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:215
+msgid "Belgium"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:216
+msgid "Belau"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:217
+msgid "Belize"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:218
+msgid "Benin"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:219
+msgid "Bermuda"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:220
+msgid "Bhutan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:221
+msgid "Bolivia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:222
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:223
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:224
+msgid "Botswana"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:225
+msgid "Bouvet Island"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:226
+msgid "Brazil"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:227
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:228
+msgid "British Virgin Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:229
+msgid "Brunei"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:230
+msgid "Bulgaria"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:231
+msgid "Burkina Faso"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:232
+msgid "Burundi"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:233
+msgid "Cambodia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:234
+msgid "Cameroon"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:235
+msgid "Canada"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:236
+msgid "Cape Verde"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:237
+msgid "Cayman Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:238
+msgid "Central African Republic"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:239
+msgid "Chad"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:240
+msgid "Chile"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:241
+msgid "China"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:242
+msgid "Christmas Island"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:243
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:244
+msgid "Colombia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:245
+msgid "Comoros"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:246
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:247
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:248
+msgid "Cook Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:249
+msgid "Costa Rica"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:250
+msgid "Croatia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:251
+msgid "Cuba"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:252
+msgid "Cura&Ccedil;ao"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:253
+msgid "Cyprus"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:254
+msgid "Czech Republic"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:255
+msgid "Denmark"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:256
+msgid "Djibouti"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:257
+msgid "Dominica"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:258
+msgid "Dominican Republic"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:259
+msgid "Ecuador"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:260
+msgid "Egypt"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:261
+msgid "El Salvador"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:262
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:263
+msgid "Eritrea"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:264
+msgid "Estonia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:265
+msgid "Ethiopia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:266
+msgid "Falkland Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:267
+msgid "Faroe Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:268
+msgid "Fiji"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:269
+msgid "Finland"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:270
+msgid "France"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:271
+msgid "French Guiana"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:272
+msgid "French Polynesia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:273
+msgid "French Southern Territories"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:274
+msgid "Gabon"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:275
+msgid "Gambia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:276
+msgid "Georgia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:277
+msgid "Germany"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:278
+msgid "Ghana"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:279
+msgid "Gibraltar"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:280
+msgid "Greece"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:281
+msgid "Greenland"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:282
+msgid "Grenada"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:283
+msgid "Guadeloupe"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:284
+msgid "Guatemala"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:285
+msgid "Guernsey"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:286
+msgid "Guinea"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:287
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:288
+msgid "Guyana"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:289
+msgid "Haiti"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:290
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:291
+msgid "Honduras"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:292
+msgid "Hong Kong"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:293
+msgid "Hungary"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:294
+msgid "Iceland"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:295
+msgid "India"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:296
+msgid "Indonesia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:297
+msgid "Iran"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:298
+msgid "Iraq"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:299
+msgid "Republic of Ireland"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:300
+msgid "Isle of Man"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:301
+msgid "Israel"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:302
+msgid "Italy"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:303
+msgid "Ivory Coast"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:304
+msgid "Jamaica"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:305
+msgid "Japan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:306
+msgid "Jersey"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:307
+msgid "Jordan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:308
+msgid "Kazakhstan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:309
+msgid "Kenya"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:310
+msgid "Kiribati"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:311
+msgid "Kuwait"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:312
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:313
+msgid "Laos"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:314
+msgid "Latvia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:315
+msgid "Lebanon"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:316
+msgid "Lesotho"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:317
+msgid "Liberia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:318
+msgid "Libya"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:319
+msgid "Liechtenstein"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:320
+msgid "Lithuania"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:321
+msgid "Luxembourg"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:322
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:323
+msgid "Macedonia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:324
+msgid "Madagascar"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:325
+msgid "Malawi"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:326
+msgid "Malaysia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:327
+msgid "Maldives"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:328
+msgid "Mali"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:329
+msgid "Malta"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:330
+msgid "Marshall Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:331
+msgid "Martinique"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:332
+msgid "Mauritania"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:333
+msgid "Mauritius"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:334
+msgid "Mayotte"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:335
+msgid "Mexico"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:336
+msgid "Micronesia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:337
+msgid "Moldova"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:338
+msgid "Monaco"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:339
+msgid "Mongolia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:340
+msgid "Montenegro"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:341
+msgid "Montserrat"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:342
+msgid "Morocco"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:343
+msgid "Mozambique"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:344
+msgid "Myanmar"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:345
+msgid "Namibia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:346
+msgid "Nauru"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:347
+msgid "Nepal"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:348
+msgid "Netherlands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:349
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:350
+msgid "New Caledonia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:351
+msgid "New Zealand"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:352
+msgid "Nicaragua"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:353
+msgid "Niger"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:354
+msgid "Nigeria"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:355
+msgid "Niue"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:356
+msgid "Norfolk Island"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:357
+msgid "North Korea"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:358
+msgid "Norway"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:359
+msgid "Oman"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:360
+msgid "Pakistan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:361
+msgid "Palestinian Territory"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:362
+msgid "Panama"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:363
+msgid "Papua New Guinea"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:364
+msgid "Paraguay"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:365
+msgid "Peru"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:366
+msgid "Philippines"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:367
+msgid "Pitcairn"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:368
+msgid "Poland"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:369
+msgid "Portugal"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:370
+msgid "Qatar"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:371
+msgid "Reunion"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:372
+msgid "Romania"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:373
+msgid "Russia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:374
+msgid "Rwanda"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:375
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:376
+msgid "Saint Helena"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:377
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:378
+msgid "Saint Lucia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:379
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:380
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:381
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:382
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:383
+msgid "San Marino"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:384
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:385
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:386
+msgid "Senegal"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:387
+msgid "Serbia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:388
+msgid "Seychelles"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:389
+msgid "Sierra Leone"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:390
+msgid "Singapore"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:391
+msgid "Slovakia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:392
+msgid "Slovenia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:393
+msgid "Solomon Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:394
+msgid "Somalia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:395
+msgid "South Africa"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:396
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:397
+msgid "South Korea"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:398
+msgid "South Sudan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:399
+msgid "Spain"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:400
+msgid "Sri Lanka"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:401
+msgid "Sudan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:402
+msgid "Suriname"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:403
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:404
+msgid "Swaziland"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:405
+msgid "Sweden"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:406
+msgid "Switzerland"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:407
+msgid "Syria"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:408
+msgid "Taiwan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:409
+msgid "Tajikistan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:410
+msgid "Tanzania"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:411
+msgid "Thailand"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:412
+msgid "Timor-Leste"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:413
+msgid "Togo"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:414
+msgid "Tokelau"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:415
+msgid "Tonga"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:416
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:417
+msgid "Tunisia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:418
+msgid "Turkey"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:419
+msgid "Turkmenistan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:420
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:421
+msgid "Tuvalu"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:422
+msgid "Uganda"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:423
+msgid "Ukraine"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:424
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:425
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:426
+msgid "United States (US)"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:427
+msgid "Uruguay"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:428
+msgid "Uzbekistan"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:429
+msgid "Vanuatu"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:430
+msgid "Vatican"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:431
+msgid "Venezuela"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:432
+msgid "Vietnam"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:433
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:434
+msgid "Western Sahara"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:435
+msgid "Western Samoa"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:436
+msgid "Yemen"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:437
+msgid "Zambia"
+msgstr ""
+
+#: includes/functions/alg-switcher-country-functions.php:438
+msgid "Zimbabwe"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://coder.fm/item/currency-switcher-woocommerce-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Currency Switcher for WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Algoritmika Ltd"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.algoritmika.com"
+msgstr ""

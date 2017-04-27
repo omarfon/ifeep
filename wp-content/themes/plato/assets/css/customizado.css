@@ -1,0 +1,269 @@
+.rojo{
+  color:red !important;
+}
+.tagcloud a{
+  background-color:#DAE7EC !important;
+  color:#000!important;
+  font-size: 1.1em!important;
+}
+.tagcloud a:hover{
+  color:#fff!important;
+}
+aside{
+  background-color: #fff;
+  border:3px solid #e1eef4;
+  padding-top: 1em!important;
+  padding-bottom: 1em!important;
+}
+aside h3{
+  color:#FCC200;
+}
+aside .widget-title{
+  text-align: center;
+  font-size: 1.6em !important;
+}
+.widget-title h3{
+  color:red!important;
+}
+#single-breadcrumb li a{
+  color:#fff !important;
+}
+.course-description p{
+  font-size: 1.1em!important;
+}
+.container-cabecera p{
+    margin-top: 0;
+}
+.container-cabecera img{
+    width: 100%;
+    height: 300px;
+    margin-top: 0;
+}
+@media(min-width:320px){
+  .container-cabecera img{
+    height: 650px;
+  }
+  .fondoCeleste{
+    background-color:#3FC6F5!important;
+    padding-bottom: 1em;
+  }
+}
+.fondoCeleste{
+  background-color:#3FC6F5;
+  text-align: center;
+}
+
+.fondoCeleste ul li{
+  color:#fff;
+  text-align: left;
+  text-decoration: none;
+  list-style-type: square;
+  font-size: 1.4em;
+  margin-left:1em; 
+}
+.tituloVentajas{
+  font-size: 1.6em;
+  font-weight: 400;
+}
+.mgtop{
+  margin-top: 2em;
+}
+.tituloPresentacion{
+  color:#4990E2;
+  font-size: 2em;
+  text-align: center;
+  font-weight: bolder;
+  text-transform: uppercase;
+  margin-top: 2em;
+}
+.parrafoPresentacion{
+  color:#05172E;
+  text-align: center;
+  width: 80%;
+  margin-left: 10%;
+  font-size: 1.1em;
+  margin-bottom: 2em;
+}
+.tituloBloqueHome{
+  color:#4990E2;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+.comoFuncionan{
+  background-color:#FCC200;
+  margin-top: 2em;
+}
+.tituloComo{
+  text-align: center;
+  color:#092E59;
+  text-transform: uppercase;
+  font-size: 2em;
+  font-weight: lighter;
+  margin-top: 1em;
+}
+.icono{
+  text-align: center;
+
+}
+.tituloComoParrafo{
+  color:#05172E;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.explicaComo{
+  text-align: center;
+  padding-bottom: 1em;
+}
+.course-thumbnail{
+  width: 100%!important;
+  height: auto!important;
+}
+.search-course-button{
+  background-color: #3DBED7 !important;
+  color:#fff !important;
+  border:none;
+}
+.search-course-button:hover{
+
+  background-color: #1564ad !important;
+  color:#fff !important;
+  border:none;
+}
+.curriculum-sections .section-header{
+  background-color: #e5edf7!important;
+}
+.botonIr{
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+.botonIr a{
+  text-align: center;
+  color:#fff;
+  font-size: 1.5em;
+  border: 1px solid #fff;
+  padding: .5em 1em;
+  margin-bottom: 2em;
+}
+.learn-press-courses h3{
+  font-size: 1.6em!important;
+}
+#single-title-container h1{
+  font-size: 3.5em!important;
+  margin-left: 2em !important;
+}
+input{
+  border-bottom: 1px solid #edeaea!important;
+  border-top: none!important;
+  border-left: none!important;
+  border-right: none!important;
+}
+.izquierda{
+  background-color: #f2d511 !important;
+  text-align: center;
+  height: 600px;
+}
+.gris{
+  color:#a7a4b4;
+  font-size: 1.4em;
+  font-weight: 400;
+  height:100%;
+  width: 70%;
+  margin-top: 1em;
+  margin-left: 10%;
+  text-align: justify;
+}
+.tituloNosotros{
+  font-size: 2.5em;
+  font-weight: bolder;
+  width: 70%;
+  margin-left: 10%;
+  margin-top: 1em;
+}
+.cajaFlotante{
+  margin-top: 2em;
+  width: 80%;
+  margin-left: 10%;
+  box-shadow: 3px 0 3px grey;
+  box-shadow: -3px 0 -3px grey;
+  height: 600px;
+}
+.HNosotros{
+  text-align: center;
+  font-size: 3em;
+  color:#005B7F;
+}
+#plato-header{
+	background-color:#FCC200!important;
+	height:120px !important;
+  box-shadow: 0px 10px 4px -2px rgba(0,0,0,0.38);
+  z-index: 2000;
+}
+
+#plato-header li{
+	font-size:1.2em;
+}
+
+#single-title-container{
+	background-color:#3FC6F5!important;
+}
+#single-title{
+	color:#ffffff!important;
+	text-align:left;
+	margin-left:50px!important;
+	font-size:3em!important;
+}
+
+.learn-press-content-item-title{
+	color:#4D5D6C;
+}
+
+#single-breadcrumb-container{
+	background-color:#3FC6F5!important;
+	color:#fff;
+}
+popup-header{
+	background-color:#3FCBD1!important;
+}
+
+
+#plato-header li{
+  font-size:1.2em;
+}
+
+#single-title-container{
+  background-color:#FCC200!important;
+}
+#single-title{
+  color:#ffffff!important;
+  text-align:left;
+  margin-left:50px!important;
+  font-size:3em!important;
+}
+
+.learn-press-content-item-title{
+  color:#4D5D6C;
+}
+
+#single-breadcrumb-container{
+  background-color:#FCC200!important;
+  color:black;
+}
+#single-breadcrumb a{
+  color:red!important;
+}
+popup-header{
+  background-color:#3FCBD1!important;
+}
+#plato-logo img{
+  width: 140px;
+  height: auto;
+}
+.marco{
+  height: 220px;
+}
+
+
+
+
