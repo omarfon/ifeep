@@ -10,17 +10,17 @@ Template Name: inicio
 echo do_shortcode('[smartslider3 slider=2]');
 ?>
 </div>
-<div class="container">
+<div class="container-full paddingAdic">
   <div class="row">
-    <div class="contenedor_presentacion col-xs-12 col-lg-8">
-    <p class="tituloPresentacion">Bienvenido al portal de cursos de Ifeep</p>
-    <p class="parrafoPresentacion">El Instiuto de  formación y extensión profesional IFEEP es una entidad dedicada a la educación, que creé firmemente en el auto aprendizaje y la superación personal por tanto nos enfocamos en proporcionar las mejores herramientas que potencién a los alumnos en el desarrollo personal y mejorar los materiales educativos que favorezcan al alumno y reduzcan los tiempos de aprendizaje.</p>
-    <div class="container mgtop">
-    <p class="tituloBloqueHome">Sobre Nuestras Ventajas</p>
-    <div class="col-xs-12 col-lg-8">
+    <div class="contenedor_presentacion col-xs-12 col-lg-9">
+      <p class="tituloPresentacion">Bienvenido al portal de cursos de Ifeep</p>
+      <p class="parrafoPresentacion"><span>El Instituto de  Formación Empresarial y Extensión Profesional IFEEP </span>es una entidad dedicada a brindar servicios educativos integrales y personalizados a la medida de las necesidades de los alumnos logrando que alcancen sus objetivos académicos y profesionales, desarrollando para ello materiales educativos propios que favorezcan al alumno y reduzcan los tiempos de aprendizaje. Contamos con las mejores herramientas que potencién las habilidades de nuestros alumnos. </p>
+      <p class="parrafoPresentacion">IFEEP tiene como misión la mejora continua de los materiales y estrategías educativas que apoyen el entrenamiento y aprendizaje de cada programa seleccionado por el alumno, cumpliendo con ello su proposito de desarrollar mejores profesionales y personas.</p>
+      <div class="container-full mgtop">
+    <div class="col-xs-12 col-lg-12">
       <div class="row">
-        <div class="col-xs-12 col-md-4 fondoCeleste">
-          <p class="tituloVentajas">Cuales son las ventajas</p>
+        <div class="col-xs-12 col-lg-4 fondoCeleste">
+          <p class="tituloBloqueHome">Sobre Nuestras Ventajas</p>
           <ul class="ventajas">
             <li>Ahorro de tiempo y dinero</li>
             <li>Repeticiones constantes</li>
@@ -29,16 +29,29 @@ echo do_shortcode('[smartslider3 slider=2]');
             <li>Certificaciones a distancia</li>
           </ul>
         </div>
-        <div class="col-md-8">
-          <div class="col-xs-12 col-md-6 curso">
-            <img src="" alt="">
-            <div>
-              
+        <div class="col-xs-12 col-lg-8">
+        <p class="tituloBloqueHome">Algunos de nuestros cursos</p>
+        <a href="#">
+          <div class="col-xs-12 col-lg-6 cursoSize amarrillo">
+            <div class="col-xs-12 col-lg-6">
+              <img class="predefinidaImg" src="<?php echo get_template_directory_uri()?>/assets/images/compu.png">
+            </div>
+            <div class="col-xs-12 col-lg-6">
+              <p class="tituloCurso">Computación Básica</p>
             </div>
           </div>
-          <div class="col-xs-12 col-md-6">
-              seis de 8
+        </a>
+        <a href="#">
+          <div class="col-xs-12 col-lg-6 cursoSize verdeAgua">
+            <div class="col-xs-12 col-lg-6">
+              <img class="predefinidaImg" src="<?php echo get_template_directory_uri()?>/assets/images/policia.png">
+            </div>
+            <div class="col-xs-12 col-lg-6">
+              <p class="tituloCurso">Inglés Básico</p>
+            </div>
           </div>
+        </a>
+
           <div class="col-xs-12 col-md-12">
               doce de 8
           </div>
@@ -47,7 +60,7 @@ echo do_shortcode('[smartslider3 slider=2]');
 </div>
 </div>
   </div>
-  <div class="col-xs-12 col-lg-4 mgtop">
+  <div class="col-xs-12 col-lg-3 mgtop">
     <aside>
 <?php get_sidebar();?>
     </aside>

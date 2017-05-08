@@ -58,8 +58,8 @@ aside .widget-title{
   text-align: left;
   text-decoration: none;
   list-style-type: square;
-  font-size: 1.4em;
-  margin-left:1em; 
+  font-size: 1.2em;
+  margin-left:1em;
 }
 .tituloVentajas{
   font-size: 1.6em;
@@ -67,22 +67,29 @@ aside .widget-title{
 }
 .mgtop{
   margin-top: 2em;
+  margin-left:0;
+  padding-left: 0;
 }
 .tituloPresentacion{
   color:#4990E2;
-  font-size: 2em;
+  font-size: 2.1em;
   text-align: center;
   font-weight: bolder;
   text-transform: uppercase;
   margin-top: 2em;
+  width: 90%;
+  margin-left: 5%;
 }
 .parrafoPresentacion{
   color:#05172E;
-  text-align: center;
-  width: 80%;
-  margin-left: 10%;
+  width: 90%;
+  margin-left: 5%;
   font-size: 1.1em;
   margin-bottom: 2em;
+  text-align:justify;
+}
+.parrafoPresentacion span{
+  font-weight: bold;
 }
 .tituloBloqueHome{
   color:#4990E2;
@@ -263,7 +270,22 @@ popup-header{
 .marco{
   height: 220px;
 }
-
-
-
-
+.amarrillo{
+  background-color: #FDBF00;
+}
+.verdeAgua{
+  background-color:#45C3CB;
+}
+.predefinidaImg{
+  width:100%;
+  height: auto;
+}
+.paddingAdic{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.cursoSize{
+  width:50%;
+  height: 220px;
+  box-sizing: border-box;
+}
