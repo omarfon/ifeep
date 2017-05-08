@@ -31,35 +31,18 @@ echo do_shortcode('[smartslider3 slider=2]');
         </div>
         <div class="col-xs-12 col-lg-8">
         <p class="tituloBloqueHome">Algunos de nuestros cursos</p>
-        <a href="#">
-          <div class="col-xs-12 col-lg-6 cursoSize amarrillo">
-            <div class="col-xs-12 col-lg-6">
-              <img class="predefinidaImg" src="<?php echo get_template_directory_uri()?>/assets/images/compu.png">
-            </div>
-            <div class="col-xs-12 col-lg-6">
-              <p class="tituloCurso">Computación Básica</p>
-            </div>
-          </div>
-        </a>
-        <a href="#">
-          <div class="col-xs-12 col-lg-6 cursoSize verdeAgua">
-            <div class="col-xs-12 col-lg-6">
-              <img class="predefinidaImg" src="<?php echo get_template_directory_uri()?>/assets/images/policia.png">
-            </div>
-            <div class="col-xs-12 col-lg-6">
-              <p class="tituloCurso">Inglés Básico</p>
-            </div>
-          </div>
-        </a>
+        <a href="http://localhost:8888/wordpress/cursos/" class="col-xs-12 col-lg-6">
+              <img class="predefinidaImg img-responsive" src="<?php echo get_template_directory_uri()?>/assets/images/gestionSalud.png">
 
-          <div class="col-xs-12 col-md-12">
-              doce de 8
-          </div>
+        </a>
+        <a href="http://localhost:8888/wordpress/cursos/" class="col-xs-12 col-lg-6 ">
+              <img class="predefinidaImg img-responsive" src="<?php echo get_template_directory_uri()?>/assets/images/adminSalud.png">
+        </a>
+      </div>
         </div>
       </div>
 </div>
 </div>
-  </div>
   <div class="col-xs-12 col-lg-3 mgtop">
     <aside>
 <?php get_sidebar();?>
@@ -86,21 +69,21 @@ echo do_shortcode('[smartslider3 slider=2]');
                 <div class="icono"><img src="<?php echo get_template_directory_uri()?>/assets/images/busca.png"></div>
               </a>
               <p class="tituloComoParrafo">Busca Curso</p>
-              <p class="explicaComo">Los cursos son  </p>
+              <p class="explicaComo">Los cursos estan hechos a tu medida busca el que se acomode a tus necesidades.  </p>
           </div>
           <div class="col-xs-6 col-md-3 col-lg-3 marco">
               <a href="#">
                 <div class="icono"><img src="<?php echo get_template_directory_uri()?>/assets/images/estudia.png" ></div>
               </a>
               <p class="tituloComoParrafo">Estudia</p>
-              <p class="explicaComo">Lorem ipsum dolor sit amet, consectetur adipisicing elit, </p>
+              <p class="explicaComo">Estudia y repite la clase todas las veces que sean necesarias, ademas el material interactivo te ayudará a prepararte</p>
           </div>
           <div class="col-xs-6 col-md-3 col-lg-3 marco">
               <a href="#">
                 <div class="icono"><img src="<?php echo get_template_directory_uri()?>/assets/images/certificate.png" alt=""></div>
               </a>
               <p class="tituloComoParrafo">Certificate</p>
-              <p class="explicaComo">Lorem ipsum dolor sit amet, consectetur adipisicing elit, </p>
+              <p class="explicaComo">Una serie de examenes preparados para que gradualmente estes preparado para para la certificación</p>
           </div>
         </div>
     </div>
